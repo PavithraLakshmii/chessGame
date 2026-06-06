@@ -1,4 +1,5 @@
 package com.example.demo.model;
+import com.example.demo.utils.Board;
 
 public class Pawn extends Piece {
     public Pawn(Color color) {
