@@ -1,5 +1,7 @@
 package com.example.demo.model;
 
+import com.example.demo.utils.Board;
+
 public class King extends Piece {
     public King(Color color) {
         super(color);

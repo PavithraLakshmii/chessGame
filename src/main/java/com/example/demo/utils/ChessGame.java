@@ -1,4 +1,11 @@
-package com.example.demo.model;
+package com.example.demo.utils;
+
+import com.example.demo.model.Cell;
+import com.example.demo.model.Color;
+import com.example.demo.model.Move;
+import com.example.demo.model.Piece;
+import com.example.demo.model.Player;
+import com.example.demo.model.Position;
 
 public class ChessGame {
     private final Player white;

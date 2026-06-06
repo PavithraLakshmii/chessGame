@@ -1,5 +1,7 @@
 package com.example.demo.model;
 
+import com.example.demo.utils.Board;
+
 public class Rook extends Piece {
     public Rook(Color color) {
         super(color);

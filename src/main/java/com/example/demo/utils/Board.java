@@ -1,4 +1,15 @@
-package com.example.demo.model;
+package com.example.demo.utils;
+
+import com.example.demo.model.Bishop;
+import com.example.demo.model.Cell;
+import com.example.demo.model.Color;
+import com.example.demo.model.King;
+import com.example.demo.model.Knight;
+import com.example.demo.model.Pawn;
+import com.example.demo.model.Piece;
+import com.example.demo.model.Position;
+import com.example.demo.model.Queen;
+import com.example.demo.model.Rook;
 
 public class Board {
     private final int size = 8;
